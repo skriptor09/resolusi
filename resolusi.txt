@@ -2,3 +2,5 @@ Resolusi Rencana
 - Konsisten belajar git & github
 - Android Studio
 - PHP language
+- Giat berlatih
+- Ikuti komunitas
