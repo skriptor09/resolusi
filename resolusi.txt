@@ -1,0 +1,4 @@
+Resolusi Rencana
+- Konsisten belajar git & github
+- Android Studio
+- PHP language
