@@ -2,4 +2,6 @@ Rencana Cabang
 - Javascript
 - Vlog
 - framework
-- Fundamental
+- Fundamental:
+  ^laravel
+-python
