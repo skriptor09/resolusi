@@ -2,3 +2,4 @@ Rencana Cabang
 - Javascript
 - Vlog
 - framework
+- Fundamental
