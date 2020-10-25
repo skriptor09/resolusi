@@ -1,6 +1,7 @@
 Rencana Cabang
 - Javascript
 - framework
-- Fundamental
-  ^angular
+- Fundamental:
+  ^laravel
   ^react
+-python
